@@ -1,5 +1,7 @@
 *.zip
 *.h5
-dataset/
-New Masks Dataset/
+Dataset_m/
+Dataset_l/
+Dataset_vl/
+Dataset_ul/
 
