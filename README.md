@@ -1,6 +1,5 @@
 # AIML
 
-
 Datasets- 
 1. _vs  0 - 20 mb 
 2. _s	20 - 80 mb
@@ -9,4 +8,4 @@ Datasets-
 5. _vl	600 - 1000 mb 		#.gitignore
 6. _ul  1000 - ... mb		#.gitignore
 
-
+large dataset files and model are not pushed in this repo
